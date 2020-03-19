@@ -134,9 +134,9 @@ CHEVROLET	Spark 1.0 Petrol 55kW	2015		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 CHEVROLET	Spark 1.2 Hatchback Petrol 60kW	2010		Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Ayla 1.0	2013		Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Ayla 1.2	2017		Helix Eco 5W-30	NULL2
-DAIHATSU	Charade MK III 1.3 Hatchback 56kW	1988	1993		
-DAIHATSU	Charade MK III 1.3 Hatchback 66kW FWD	1988	1993		
-DAIHATSU	Charade MK IV 1.3 Hatchback 62kW	1993	2000		
+DAIHATSU	Charade MK III 1.3 Hatchback 56kW	1988	1993	Spirax S4 ATF HDX	NULL2
+DAIHATSU	Charade MK III 1.3 Hatchback 66kW FWD	1988	1993	Spirax S4 ATF HDX	NULL2
+DAIHATSU	Charade MK IV 1.3 Hatchback 62kW	1993	2000	Spirax S2 A 80W-90	NULL2
 DAIHATSU	Copen 0.7 47kW (KF)	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Luxio	2009		Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Move 0.7 33kW	1998	2002	Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -146,11 +146,11 @@ DAIHATSU	Move 0.7 47kW FWD (JBDET)	2002	2006	Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Move Custom 43kW (EFVE)	2002	2007	Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Move Custom 47kW 4WD (JBDET)	2002	2007	Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Move Custom 47kW FWD (JBDET)	2002	2007	Helix HX8 X 5W-30	Helix Eco 5W-30
-DAIHATSU	Rocky 2.2	1991	1994		
+DAIHATSU	Rocky 2.2	1991	1994	Spirax S4 ATF HDX	NULL2
 DAIHATSU	Sigra 1.0	2016		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 DAIHATSU	Sigra 1.2	2016		Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Sirion 1.3 66kW	2011		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-DAIHATSU	Taruna 1.6	1999	2005		
+DAIHATSU	Taruna 1.6	1999	2005	Spirax S4 ATF HDX	NULL2
 DAIHATSU	Terios 1.5 Petrol 77kW 4WD	2005		Helix Eco 5W-30	NULL2
 DAIHATSU	Terios 1.5 Petrol 77kW RWD	2005		Helix Eco 5W-30	NULL2
 DAIHATSU	Terios 1.5 Petrol 80kW	2005	2010	Helix Eco 5W-30	NULL2
@@ -163,13 +163,13 @@ DAIHATSU	Xenia 1.3 68kW (GFS651GR)	2011	2015	Helix HX8 X 5W-30	Helix Eco 5W-30
 DAIHATSU	Xenia 1.3 71kW	2015		Helix HX8 X 5W-30	Helix Eco 5W-30
 DATSUN	GO 50kW (AD0K)	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
 DATSUN	GO+ 50kW (AD0N,AD0NN)	2015		Helix HX8 X 5W-30	Helix Eco 5W-30
-HONDA	Accord Aerodeck MK IV 2.2 110kW (F22A7,F22A8) (CB8,CB9)	1990	1993		
-HONDA	Accord Aerodeck MK V 2.2 110kW	1994	1997		
-HONDA	Accord MK IV 2.2 110kW	1990	1993		
+HONDA	Accord Aerodeck MK IV 2.2 110kW (F22A7,F22A8) (CB8,CB9)	1990	1993	Spirax S4 ATF HDX	NULL2
+HONDA	Accord Aerodeck MK V 2.2 110kW	1994	1997	Spirax S4 ATF HDX	NULL2
+HONDA	Accord MK IV 2.2 110kW	1990	1993	Spirax S4 ATF HDX	NULL2
 HONDA	Accord MK IX 2.4 Petrol 129kW	2013		Helix HX8 X 5W-30	Helix Eco 5W-30
 HONDA	Accord MK IX 2.4 Petrol 132kW (K24W2)	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
-HONDA	Accord MK V 2.2 110kW (F22B5)	1993	1998		
-HONDA	Accord MK V 2.3 116kW	1994	1995		
+HONDA	Accord MK V 2.2 110kW (F22B5)	1993	1998	Spirax S4 ATF HDX	NULL2
+HONDA	Accord MK V 2.3 116kW	1994	1995	Spirax S4 ATF HDX	NULL2
 HONDA	Accord MK VI 2.3 Saloon 113kW (F23Z5)	2000	2002	Helix Eco 5W-30	NULL2
 HONDA	Accord MK VII 2.4 140kW (K24A3)	2003	2008	Helix Eco 5W-30	NULL2
 HONDA	Accord MK VIII 2.4 132kW	2008	2012	Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -189,16 +189,16 @@ HONDA	CR-V MK IV 2.4 Petrol 140kW 4WD	2012		Helix Eco 0W-20	NULL2
 HONDA	CR-V MK IV 2.4 Petrol 140kW FWD	2012		Helix Eco 0W-20	NULL2
 HONDA	CR-V MK V 1.5 138kW FWD (L15BE)	2016		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 HONDA	City MK VI Petrol 88kW (L15A7,L15Z1)	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
-HONDA	Civic Aerodeck MK VI 1.6 85kW	1998	2001		
-HONDA	Civic Aerodeck MK VI 1.6 92kW	1998	2001		
-HONDA	Civic Coupe MK VI 77kW (D16Y6,D16Y7)	1996	2000		
-HONDA	Civic Coupe MK VI 92kW	1996	2000		
+HONDA	Civic Aerodeck MK VI 1.6 85kW	1998	2001	Spirax S4 ATF HDX	NULL2
+HONDA	Civic Aerodeck MK VI 1.6 92kW	1998	2001	Spirax S4 ATF HDX	NULL2
+HONDA	Civic Coupe MK VI 77kW (D16Y6,D16Y7)	1996	2000	Spirax S4 ATF HDX	NULL2
+HONDA	Civic Coupe MK VI 92kW	1996	2000	Spirax S4 ATF HDX	NULL2
 HONDA	Civic Coupe MK VII 1.7 92kW (D17A5)	2001	2005	Helix Eco 5W-30	NULL2
-HONDA	Civic MK IV 1.6 Hatchback 81kW (D16A6)	1988	1991		
+HONDA	Civic MK IV 1.6 Hatchback 81kW (D16A6)	1988	1991	Spirax S4 ATF HDX	NULL2
 HONDA	Civic MK IX 1.8 Saloon Petrol 104kW	2011		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 HONDA	Civic MK IX 2.0 Saloon Petrol	2012		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-HONDA	Civic MK V 1.6 Hatchback 92kW (D16Z6)	1991	1995		
-HONDA	Civic MK VI 1.6 Hatchback 83kW	1995	1997		
+HONDA	Civic MK V 1.6 Hatchback 92kW (D16Z6)	1991	1995	Spirax S4 ATF HDX	NULL2
+HONDA	Civic MK VI 1.6 Hatchback 83kW	1995	1997	Spirax S4 ATF HDX	NULL2
 HONDA	Civic MK VI 1.6 Hatchback 84kW	1995	2001		
 HONDA	Civic MK VII 1.6 Hatchback (D16V1,D16V3,D16W7)	2000	2005	Helix Eco 5W-30	NULL2
 HONDA	Civic MK VII 1.7 Hatchback Petrol 92kW	2002	2005	Helix Eco 5W-30	NULL2
@@ -206,7 +206,7 @@ HONDA	Civic MK VIII 1.3 Saloon Hybrid-petrol 70kW	2006	2012	Helix HX8 X 5W-30	He
 HONDA	Civic MK VIII 1.8 Saloon Petrol 103kW (R18A1) (FA1)	2005	2013	Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 HONDA	Civic MK VIII 2.0 Saloon 114kW (FD1)	2006	2012	Helix HX8 X 5W-30	Helix Eco 5W-30
 HONDA	Civic MK X 1.5 Saloon 127kW	2016		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-HONDA	Civic Shuttle MK IV 1.6 85kW	1988	1992		
+HONDA	Civic Shuttle MK IV 1.6 85kW	1988	1992	Spirax S2 A 90	NULL2
 HONDA	Fit MK I 1.5 79kW (L15A1)	2002	2007	Helix HX8 X 5W-30	NULL2
 HONDA	Freed Petrol 87kW FWD	2008	2016	Helix HX8 X 5W-30	Helix Eco 5W-30
 HONDA	HR-V 1.5 Petrol 88kW	2015		Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -218,23 +218,23 @@ HONDA	Jazz MK I 1.3 (L13A5)	2002	2008	Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 HONDA	Jazz MK II 1.2 (L12B1,L12B2)	2008	2015	Helix HX8 X 5W-30	Helix Eco 5W-30
 HONDA	Jazz MK II 1.5	2007	2015	Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 HONDA	Jazz MK III 1.5 Petrol 88kW	2014		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-HONDA	Legend MK II Coupe	1991	1995		
+HONDA	Legend MK II Coupe	1991	1995	Spirax S4 ATF HDX	NULL2
 HONDA	Mobilio Petrol 88kW	2013		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 HONDA	Odyssey 2.4 Petrol 129kW 4WD	2013		Helix HX8 X 5W-30	Helix Eco 5W-30
 HONDA	Odyssey 2.4 Petrol 129kW FWD	2013		Helix HX8 X 5W-30	Helix Eco 5W-30
 HONDA	Odyssey 2.4 Petrol 132kW	2008	2013	Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-HONDA	Prelude MK IV 2.0	1991	1996		
+HONDA	Prelude MK IV 2.0	1991	1996	Spirax S4 ATF HDX	NULL2
 HONDA	Prelude MK IV 2.2 136kW	1993	1996		
-HONDA	Prelude MK IV 2.3 (H23A2)	1991	1996		
+HONDA	Prelude MK IV 2.3 (H23A2)	1991	1996	Spirax S4 ATF HDX	NULL2
 HONDA	Stepwagon 2.0 99kW	1996	2000		
 HONDA	Stream 1.7	2001	2006	Helix Eco 5W-30	NULL2
 HONDA	Stream 2.0 115kW	2001	2006	Helix Eco 5W-30	NULL2
 HYUNDAI	Accent MK IV 1.4 Saloon Petrol 79kW	2010		Helix Eco 0W-20	NULL2
-HYUNDAI	Getz 1.3 60kW	2002	2005		
+HYUNDAI	Getz 1.3 60kW	2002	2005	Spirax Astra 80W-90	NULL2
 HYUNDAI	Getz 1.6 78kW	2005	2012	Helix Eco 0W-20	NULL2
-HYUNDAI	Getz Prime 1.1	2007	2009		
-HYUNDAI	Grandeur 3.0 Petrol 153kW	2001	2005		
-HYUNDAI	Matrix MK I 1.6	2001	2010		
+HYUNDAI	Getz Prime 1.1	2007	2009	Spirax Astra 80W-90	NULL2
+HYUNDAI	Grandeur 3.0 Petrol 153kW	2001	2005	Spirax Astra 80W-90	NULL2
+HYUNDAI	Matrix MK I 1.6	2001	2010	Spirax Astra 80W-90	NULL2
 HYUNDAI	Santa Fe MK III 2.2 145kW 4WD (DM,DMI)	2012		Helix Ultra ECT 0W-30	NULL2
 HYUNDAI	Santa Fe MK III 2.2 145kW FWD (DM,DMI)	2012		Helix Ultra ECT 0W-30	NULL2
 HYUNDAI	Santa Fe MK III 2.2 149kW FWD	2015		Helix Ultra ECT 0W-30	NULL2
@@ -242,43 +242,43 @@ HYUNDAI	Santa Fe MK III 2.4 129kW FWD	2012		Helix Eco 0W-20	NULL2
 HYUNDAI	Sonata MK VII 1.6 132kW	2015		Helix HX8 X 5W-30	Helix Eco 5W-30
 HYUNDAI	Sonata MK VII 2.0 Petrol 113kW	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
 HYUNDAI	Sonata MK VII 2.0 Petrol 115kW	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
-HYUNDAI	Sonata MK VII 2.0 Petrol 180kW (G4KD,G4KH)	2014			
-HYUNDAI	Terracan 3.5 147kW	2001	2006		
-HYUNDAI	Trajet 2.0 Petrol 103kW (G4GC) (KMDMF8A,KMDMF8E)	2003	2008		
+HYUNDAI	Sonata MK VII 2.0 Petrol 180kW (G4KD,G4KH)	2014		Spirax Astra 80W-90	NULL2
+HYUNDAI	Terracan 3.5 147kW	2001	2006	Spirax S4 ATF HDX	NULL2
+HYUNDAI	Trajet 2.0 Petrol 103kW (G4GC) (KMDMF8A,KMDMF8E)	2003	2008	Spirax Astra 80W-90	NULL2
 HYUNDAI	Tucson 2.0 Petrol 114kW FWD (TL)	2015		Helix Eco 5W-30	NULL2
 HYUNDAI	Tucson 2.0 Petrol 122kW FWD (G4KD)	2010		Helix HX8 X 5W-30	NULL2
 HYUNDAI	Grand i10 MK II 1.2 Hatchback Petrol 64kW	2013		Helix Eco 0W-20	NULL2
 HYUNDAI	i10 MK I 1.1 Petrol 51kW	2011		Helix HX8 X 5W-30	Helix Eco 5W-30
-ISUZU	D-Max Mk I 2.5 Pick up Truck 85kW 4WD	2006	2012		
-ISUZU	D-Max Mk I 2.5 Pick up Truck 85kW RWD	2006	2012		
+ISUZU	D-Max Mk I 2.5 Pick up Truck 85kW 4WD	2006	2012	Spirax S6 AXME 75W-90	NULL2
+ISUZU	D-Max Mk I 2.5 Pick up Truck 85kW RWD	2006	2012	Spirax S6 AXME 75W-90	NULL2
 ISUZU	D-Max Mk I 3.0 Pick up Truck 100kW 4WD	2003	2012	Rimula Light Duty LD4 Extra 15W-40	NULL2
-ISUZU	D-Max Mk II 2.5 Pick up Truck 100kW 4WD	2012			
-ISUZU	D-Max Mk II 2.5 Pick up Truck 100kW RWD	2012			
+ISUZU	D-Max Mk II 2.5 Pick up Truck 100kW 4WD	2012		Spirax S6 AXME 75W-90	NULL2
+ISUZU	D-Max Mk II 2.5 Pick up Truck 100kW RWD	2012		Spirax S6 AXME 75W-90	NULL2
 ISUZU	KB 2.5 66kW	1990	2000		
 ISUZU	Panther 2.5 Terrain cab closed	1991	2000		
 ISUZU	Panther 2.5 Terrain cab wagon closed 59kW	2000			
 ISUZU	Panther 2.5 Terrain cab wagon closed 81kW	1991	2000		
-ISUZU	Trooper 3.0 Terrain cab wagon closed	1998	2004		
-ISUZU	Trooper 3.1 Terrain cab wagon closed	1991	1998		
-KIA	Carens MK I 1.8 93kW	2000	2006		
-KIA	Cerato Forte Koup MK III	2014			
+ISUZU	Trooper 3.0 Terrain cab wagon closed	1998	2004	Spirax S4 ATF HDX	NULL2
+ISUZU	Trooper 3.1 Terrain cab wagon closed	1991	1998	Spirax S2 A 90	NULL2
+KIA	Carens MK I 1.8 93kW	2000	2006	Spirax Astra 80W-90	NULL2
+KIA	Cerato Forte Koup MK III	2014		Spirax Astra 80W-90	NULL2
 KIA	Cerato MK III 1.6 Hatchback 95kW	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
 KIA	Cerato MK III 1.6 Saloon Petrol 95kW	2013		Helix HX8 X 5W-30	Helix Eco 5W-30
 KIA	Cerato MK III 1.6 Saloon Petrol 96kW	2013		Helix HX8 X 5W-30	Helix Eco 5W-30
 KIA	Optima 2.4 Petrol 132kW (G4KE)	2015		Helix Eco 5W-30	NULL2
 KIA	Picanto 1.0 Petrol 51kW (TA)	2011		Helix Eco 0W-20	NULL2
-KIA	Picanto 1.1 Petrol	2004	2011		
+KIA	Picanto 1.1 Petrol	2004	2011	Helix Eco 0W-20	NULL2
 KIA	Picanto 1.2 64kW (TA)	2011		Helix Eco 0W-20	NULL2
-KIA	Rio MK I 1.5 Estate 72kW	2000	2005		
+KIA	Rio MK I 1.5 Estate 72kW	2000	2005	Spirax Astra 80W-90	NULL2
 KIA	Rio MK III 1.4 Hatchback Petrol 79kW	2011		Helix HX8 X 5W-30	Helix Eco 5W-30
 KIA	Sedona MK II 2.9	2006	2015	Helix HX8 X 5W-30	NULL2
-KIA	Sephia II	2001	2005		
+KIA	Sephia II	2001	2005	Spirax S4 ATF HDX	NULL2
 KIA	Sorento MK II 2.2 145kW 4WD	2009		Helix HX8 X 5W-30	NULL2
 KIA	Sorento MK II 2.2 145kW FWD	2009		Helix HX8 X 5W-30	NULL2
 KIA	Sorento MK II 2.4 Petrol 128kW 4WD	2009		Helix HX8 X 5W-30	NULL2
 KIA	Sorento MK II 2.4 Petrol 128kW FWD	2009		Helix HX8 X 5W-30	NULL2
 KIA	Sorento MK III 2.2 145kW	2014		Helix HX8 X 5W-30	NULL2
-KIA	Spectra 1.8 Saloon (T8)	2001	2004		
+KIA	Spectra 1.8 Saloon (T8)	2001	2004	Spirax Astra 80W-90	NULL2
 KIA	Sportage 2.0 Sport Utility Vehicle Diesel 135kW FWD (SL)	2010	2015	Helix HX8 X 5W-30	NULL2
 KIA	Sportage 2.0 Sport Utility Vehicle Petrol 104kW 4WD	2004	2010	Helix Eco 0W-20	NULL2
 KIA	Sportage 2.0 Sport Utility Vehicle Petrol 117kW	2015		Helix Eco 0W-20	NULL2
@@ -289,8 +289,8 @@ MAZDA	2 1.5 Saloon Petrol 76kW	2010	2015	Helix HX8 X 5W-30	Helix Eco 5W-30
 MAZDA	6 2.5 Saloon 138kW (PYY1,PYY3)	2012		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 MAZDA	6 2.5 Saloon 140kW	2018		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 MAZDA	6 2.5 Saloon 141kW (PYY1,PYY3)	2012	2018	Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-MAZDA	Astina 1.6 66kW (B67L)	1991	1994		
-MAZDA	B2500 Pick up Truck Diesel 80kW 4WD (WL84,WLF2)	1999	2006		
+MAZDA	Astina 1.6 66kW (B67L)	1991	1994	Spirax S4 ATF HDX	NULL2
+MAZDA	B2500 Pick up Truck Diesel 80kW 4WD (WL84,WLF2)	1999	2006	Spirax Astra 80W-90	NULL2
 MAZDA	Biante 2.0 110kW	2008		Helix HX8 X 5W-30	Helix Eco 5W-30
 MAZDA	CX3 2.0 Petrol 109kW FWD	2015		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 MAZDA	CX3 2.0 Petrol 110kW FWD	2018		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
@@ -302,8 +302,8 @@ MAZDA	MX5 MK III 2.0 118kW (LFG8,LFY7)	2005	2014	Helix HX8 X 5W-30	Helix Eco 5W-
 MAZDA	MX5 MK IV 1.5 Cabriolet 96kW (P5Z1)	2015		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 MAZDA	MX5 MK IV 2.0 Cabriolet 118kW (PEX4,PEX6)	2015		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 MAZDA	MX5 MK IV 2.0 Targa 118kW	2016		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-MAZDA	Proceed 2.5 63kW RWD	1996	1999		
-MAZDA	Proceed 2.5 64kW	1996	1999		
+MAZDA	Proceed 2.5 63kW RWD	1996	1999	Spirax S2 G 80W-90	Spirax Astra 80W-90
+MAZDA	Proceed 2.5 64kW	1996	1999	Spirax S2 G 80W-90	Spirax Astra 80W-90
 MAZDA	Tribute 3.0 Petrol 149kW 4WD	2001	2008	Helix Eco 5W-30	NULL2
 MERCEDES-BENZ	250 S124 Estate 83kW	1992	1993	Helix HX8 Synthetic 5W-30	NULL2
 MERCEDES-BENZ	A150 W169 (169031,169331)	2004	2012	Helix HX8 X 5W-30	NULL2
@@ -382,33 +382,33 @@ MERCEDES-BENZ	S350 W221 3.5 200kW 4WD	2006	2013	Helix HX8 X 5W-30	NULL2
 MERCEDES-BENZ	S350 W221 3.5 200kW RWD	2005	2013	Helix HX8 X 5W-30	NULL2
 MERCEDES-BENZ	S500 W221 5.5 285kW 4WD	2006	2013	Helix HX8 X 5W-30	NULL2
 MERCEDES-BENZ	S500 W221 5.5 285kW RWD (221071,221171)	2005	2013	Helix HX8 Synthetic 5W-30	NULL2
-MITSUBISHI	Colt MK III 1.5 66kW (4G15)	1991	1993		
+MITSUBISHI	Colt MK III 1.5 66kW (4G15)	1991	1993	Spirax S4 ATF HDX	NULL2
 MITSUBISHI	Colt MK VI 1.5 Hatchback Petrol 72kW FWD (Z27A)	2004	2006	Helix HX5 15W-40	NULL2
 MITSUBISHI	Delica D5 2.0 FWD (4B11)	2007		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 MITSUBISHI	Galant MK IX 3.8 171kW FWD	2003	2013	Helix Eco 0W-20	NULL2
-MITSUBISHI	L200 2.4 Petrol 97kW RWD (4G64S) (K55T)	1996	2003		
-MITSUBISHI	L200 2.5 Pick up Truck 73kW 4WD (K74T)	1996	2007		
-MITSUBISHI	L200 3.0 108kW	2001	2005		
+MITSUBISHI	L200 2.4 Petrol 97kW RWD (4G64S) (K55T)	1996	2003	Spirax Astra 80W-90	NULL2
+MITSUBISHI	L200 2.5 Pick up Truck 73kW 4WD (K74T)	1996	2007	Spirax Astra 80W-90	NULL2
+MITSUBISHI	L200 3.0 108kW	2001	2005	Spirax Astra 80W-90	NULL2
 MITSUBISHI	Lancer 2.0 Saloon Petrol 113kW FWD	2007		Helix HX7 Plus 5W-40	Helix Ultra 5W-40
 MITSUBISHI	Lancer 2.0 Saloon Petrol 115kW	2008		Helix HX7 Plus 5W-40	Helix Ultra 5W-40
-MITSUBISHI	Lancer Cedia MK VII 1.6	2000	2003		
-MITSUBISHI	Lancer Estate/Wagon MK IV 1.6 4WD	1992	2003		
-MITSUBISHI	Lancer Estate/Wagon MK IV 1.8 88kW FWD	1995	2003		
-MITSUBISHI	Lancer MK IV 1.6 Saloon 83kW FWD	1992	1995		
-MITSUBISHI	Lancer MK IV 1.8 Saloon 103kW	1992	1995		
+MITSUBISHI	Lancer Cedia MK VII 1.6	2000	2003	Spirax Astra 80W-90	NULL2
+MITSUBISHI	Lancer Estate/Wagon MK IV 1.6 4WD	1992	2003	Spirax Astra 80W-90	NULL2
+MITSUBISHI	Lancer Estate/Wagon MK IV 1.8 88kW FWD	1995	2003	Spirax Astra 80W-90	NULL2
+MITSUBISHI	Lancer MK IV 1.6 Saloon 83kW FWD	1992	1995	Spirax Astra 80W-90	NULL2
+MITSUBISHI	Lancer MK IV 1.8 Saloon 103kW	1992	1995	Spirax Astra 80W-90	NULL2
 MITSUBISHI	Mirage 1.2 Hatchback Petrol 57kW	2012		Helix HX8 X 5W-30	NULL2
 MITSUBISHI	Outlander Sport MK III 2.0 110kW FWD	2011		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 MITSUBISHI	Pajero Sport MK II 2.5 100kW 4WD	2008	2015	Helix HX8 X 5W-30	NULL2
 MITSUBISHI	Pajero Sport MK II 2.5 100kW RWD	2008	2015	Helix HX8 X 5W-30	Helix Eco 5W-30
-MITSUBISHI	Pajero Sport MK III 2.4 4WD	2015			
-MITSUBISHI	Pajero Sport MK III 2.4 RWD	2015			
+MITSUBISHI	Pajero Sport MK III 2.4 4WD	2015		Spirax Astra 80W-90	NULL2
+MITSUBISHI	Pajero Sport MK III 2.4 RWD	2015		Spirax Astra 80W-90	NULL2
 MITSUBISHI	Pajero Sport MK III 2.5 RWD	2015		Helix HX8 X 5W-30	NULL2
-MITSUBISHI	Shogun 2.5 Terrain cab open 73kW	2000	2006		
-MITSUBISHI	Shogun 2.8 Terrain cab wagon closed 92kW	1994	2000		
-MITSUBISHI	Shogun 3.0 Terrain cab wagon closed 133kW	1997	2000		
-MITSUBISHI	Shogun 3.5 Terrain cab wagon closed 149kW	2000	2007		
-MITSUBISHI	Shogun MK I 3.0 104kW	1989	1991		
-MITSUBISHI	Shogun MK I 3.0 105kW	1989	1991		
+MITSUBISHI	Shogun 2.5 Terrain cab open 73kW	2000	2006	Spirax S4 ATF HDX	NULL2
+MITSUBISHI	Shogun 2.8 Terrain cab wagon closed 92kW	1994	2000	Spirax S4 ATF HDX	NULL2
+MITSUBISHI	Shogun 3.0 Terrain cab wagon closed 133kW	1997	2000	Spirax S4 ATF HDX	NULL2
+MITSUBISHI	Shogun 3.5 Terrain cab wagon closed 149kW	2000	2007	Spirax S4 ATF HDX	NULL2
+MITSUBISHI	Shogun MK I 3.0 104kW	1989	1991	Spirax Astra 80W-90	NULL2
+MITSUBISHI	Shogun MK I 3.0 105kW	1989	1991	Spirax Astra 80W-90	NULL2
 NISSAN	Almera MK I 1.6 Saloon 75kW (K4M490,K4M496,K4M497)	2012		Helix HX8 X 5W-30	Helix Eco 5W-30
 NISSAN	Elgrand 2.5 125kW FWD	2010		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 NISSAN	Elgrand 3.5 206kW FWD	2010		Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -422,35 +422,35 @@ NISSAN	Navara 2.5 Pick up Truck Diesel 128kW 4WD (D40L)	2005		Helix HX8 X 5W-30	
 NISSAN	Navara 2.5 Pick up Truck Diesel 98kW 4WD	2001		Rimula R3 Turbo 15W-40	NULL2
 NISSAN	Pathfinder 2.4 Terrain cab closed 87kW	1999	2002	Helix Eco 5W-30	NULL2
 NISSAN	Pathfinder 2.4 Terrain cab wagon closed 87kW	1999	2002	Helix Eco 5W-30	NULL2
-NISSAN	Patrol GR MK IV 4.2 Diesel 92kW	1988	1997		
-NISSAN	Primera 2.0 Hatchback Diesel 55kW	1991	1996		
-NISSAN	Primera 2.0 Hatchback Diesel 66kW	1996	2002		
-NISSAN	Primera 2.0 Hatchback Petrol 105kW FWD	1990	1993		
-NISSAN	Primera 2.0 Saloon Diesel 66kW	1996	2001		
-NISSAN	Primera 2.0 Saloon Petrol 92kW	1991	1996		
-NISSAN	Primera 2.0 Saloon Petrol 96kW (P10E)	1990	1996		
-NISSAN	Primera Estate/Wagon 2.0 Estate Petrol 96kW	1998	2001		
+NISSAN	Patrol GR MK IV 4.2 Diesel 92kW	1988	1997	Spirax S3 G 80W	Spirax S2 G 90
+NISSAN	Primera 2.0 Hatchback Diesel 55kW	1991	1996	Spirax S4 ATF HDX	NULL2
+NISSAN	Primera 2.0 Hatchback Diesel 66kW	1996	2002	Spirax Astra 80W-90	NULL2
+NISSAN	Primera 2.0 Hatchback Petrol 105kW FWD	1990	1993	Spirax Astra 80W-90	NULL2
+NISSAN	Primera 2.0 Saloon Diesel 66kW	1996	2001	Spirax Astra 80W-90	NULL2
+NISSAN	Primera 2.0 Saloon Petrol 92kW	1991	1996	Spirax Astra 80W-90	NULL2
+NISSAN	Primera 2.0 Saloon Petrol 96kW (P10E)	1990	1996	Spirax Astra 80W-90	NULL2
+NISSAN	Primera Estate/Wagon 2.0 Estate Petrol 96kW	1998	2001	Spirax Astra 80W-90	NULL2
 NISSAN	Pulsar MK I 1.6 Hatchback	2000	2003	Helix Eco 5W-30	NULL2
 NISSAN	Pulsar MK I 1.6 Saloon	2000	2003	Helix Eco 5W-30	NULL2
-NISSAN	Pulsar MK I 1.8 Saloon 84kW	2000	2002		
+NISSAN	Pulsar MK I 1.8 Saloon 84kW	2000	2002	Spirax Astra 80W-90	NULL2
 NISSAN	Pulsar MK I 1.8 Saloon 94kW	2002	2006	Helix HX8 X 5W-30	Helix Eco 5W-30
-NISSAN	Pulsar MK IV 1.6 Saloon 75kW FWD	1992	1995		
-NISSAN	Pulsar MK IV 2.0 Hatchback Diesel	1990	1995		
-NISSAN	Pulsar MK IV 2.0 Hatchback Petrol 162kW	1992	1993		
-NISSAN	Pulsar MK V 1.6 Saloon 73kW	1995	2000		
+NISSAN	Pulsar MK IV 1.6 Saloon 75kW FWD	1992	1995	Spirax Astra 80W-90	NULL2
+NISSAN	Pulsar MK IV 2.0 Hatchback Diesel	1990	1995	Spirax Astra 80W-90	NULL2
+NISSAN	Pulsar MK IV 2.0 Hatchback Petrol 162kW	1992	1993	Spirax Astra 80W-90	NULL2
+NISSAN	Pulsar MK V 1.6 Saloon 73kW	1995	2000	Spirax S4 ATF HDX	NULL2
 NISSAN	Sentra (USA) 1.8 88kW	2000	2006	Helix Eco 5W-30	NULL2
 NISSAN	Sentra (USA) 1.8 93kW (B15U)	2000	2006	Helix HX8 X 5W-30	Helix Eco 5W-30
 NISSAN	Serena 2.0 Petrol 108kW FWD (MR20DD)	2010		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 NISSAN	Serena 2.0 Petrol 110kW	2016		Spirax S2 A 80W-90	NULL2
-NISSAN	Sunny MK VIII 1.6 Saloon 75kW FWD	1992	1995		
-NISSAN	Sunny MK VIII 2.0 Hatchback Diesel	1990	1995		
+NISSAN	Sunny MK VIII 1.6 Saloon 75kW FWD	1992	1995	Spirax Astra 80W-90	NULL2
+NISSAN	Sunny MK VIII 2.0 Hatchback Diesel	1990	1995	Spirax Astra 80W-90	NULL2
 NISSAN	Sunny Neo MK I 1.8 94kW FWD	2000	2002	Helix Eco 5W-30	NULL2
 NISSAN	Teana MK I 2.0	2003	2008	Helix HX8 X 5W-30	Helix Eco 5W-30
 NISSAN	Teana MK II 2.5 134kW (J32)	2008	2015	Helix HX8 X 5W-30	Helix Eco 5W-30
 NISSAN	Teana MK III 2.5 Petrol 127kW (L33L)	2013		Helix HX8 X 5W-30	Helix Eco 5W-30
-NISSAN	Terrano II 2.4 Terrain cab closed 93kW	1993	1996		
-NISSAN	Terrano II 2.4 Terrain cab wagon closed 93kW	1993	1996		
-NISSAN	Tino 2.0	2000	2003		
+NISSAN	Terrano II 2.4 Terrain cab closed 93kW	1993	1996	Spirax Astra 80W-90	NULL2
+NISSAN	Terrano II 2.4 Terrain cab wagon closed 93kW	1993	1996	Spirax Astra 80W-90	NULL2
+NISSAN	Tino 2.0	2000	2003	Spirax S4 ATF HDX	NULL2
 NISSAN	X-Trail 2.0 Hybrid-petrol 108kW FWD	2016		Helix HX8 X 5W-30	Helix Eco 5W-30
 NISSAN	X-Trail 2.0 Petrol 106kW FWD (T32,T32N,T32T)	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
 NISSAN	X-Trail 2.0 Petrol 110kW FWD	2001	2007	Helix Eco 5W-30	NULL2
@@ -463,13 +463,13 @@ PROTON	Exora Prime	2011
 PROTON	Gen 2 1.6 Hatchback Petrol 82kW	2003		Helix Eco 5W-30	NULL2
 PROTON	Gen 2 1.6 Saloon Petrol	2009		Helix Eco 5W-30	NULL2
 PROTON	Persona 1.6 Saloon Petrol 82kW	2007	2016	Helix Eco 5W-30	NULL2
-PROTON	Savvy	2005	2012		
+PROTON	Savvy	2005	2012	Spirax S4 ATF HDX	NULL2
 SUZUKI	Baleno 1.0 (WB42S)	2016		Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	Baleno 1.6 Hatchback FWD	1995	2002	Helix Eco 5W-30	NULL2
 SUZUKI	Cultus 1.3 Hatchback 63kW FWD	2001	2003	Helix Eco 5W-30	NULL2
 SUZUKI	Ertiga 1.4 69kW	2012	2018	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	Ertiga 1.4 70kW	2012		Helix HX8 X 5W-30	Helix Eco 5W-30
-SUZUKI	Escudo 2.0 Terrain cab closed Petrol 97kW	1996	2000		
+SUZUKI	Escudo 2.0 Terrain cab closed Petrol 97kW	1996	2000	Spirax Astra 80W-90	NULL2
 SUZUKI	Grand Escudo 2.7 127kW	1998	2003	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	Grand Escudo XL 106kW	1998	2003	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	Grand Escudo XL 118kW	2003	2005	Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -478,21 +478,21 @@ SUZUKI	Grand Vitara MK II 2.4 Terrain cab wagon closed 122kW 4WD	2005		Helix Ult
 SUZUKI	Grand Vitara MK II 2.4 Terrain cab wagon closed 122kW RWD	2009		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 SUZUKI	Ignis MK III Petrol 60kW	2017		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 SUZUKI	Karimun Wagon R	2013		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-SUZUKI	Katana 1.0	1988	1990		
-SUZUKI	Katana 1.3 Terrain cab closed 47kW	1988	1992		
-SUZUKI	Katana 1.3 Terrain cab closed 51kW (G13A)	1988	1992		
-SUZUKI	Katana 1.3 Terrain cab closed 51kW (G13BA)	1989	2000		
-SUZUKI	Katana 1.3 Terrain cab open 47kW	1988	1992		
-SUZUKI	Katana 1.3 Terrain cab open 51kW (G13A)	1988	1992		
-SUZUKI	Katana 1.3 Terrain cab open 51kW (G13BA)	1989	2000		
-SUZUKI	Katana 1.3 Terrain cab wagon closed (G13A)	1988	1992		
-SUZUKI	Katana 1.3 Terrain cab wagon closed (G13BA)	1989	2000		
+SUZUKI	Katana 1.0	1988	1990	Spirax S2 G 90	Spirax Astra 80W-90
+SUZUKI	Katana 1.3 Terrain cab closed 47kW	1988	1992	Spirax S2 G 90	Spirax Astra 80W-90
+SUZUKI	Katana 1.3 Terrain cab closed 51kW (G13A)	1988	1992	Spirax S2 G 90	Spirax Astra 80W-90
+SUZUKI	Katana 1.3 Terrain cab closed 51kW (G13BA)	1989	2000	Spirax Astra 80W-90	NULL2
+SUZUKI	Katana 1.3 Terrain cab open 47kW	1988	1992	Spirax S2 G 90	Spirax Astra 80W-90
+SUZUKI	Katana 1.3 Terrain cab open 51kW (G13A)	1988	1992	Spirax S2 G 90	Spirax Astra 80W-90
+SUZUKI	Katana 1.3 Terrain cab open 51kW (G13BA)	1989	2000	Spirax Astra 80W-90	NULL2
+SUZUKI	Katana 1.3 Terrain cab wagon closed (G13A)	1988	1992	Spirax S2 G 90	Spirax Astra 80W-90
+SUZUKI	Katana 1.3 Terrain cab wagon closed (G13BA)	1989	2000	Spirax Astra 80W-90	NULL2
 SUZUKI	MR Wagon 40kW FWD (K6A) (AMF21S)	2001	2006	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	MR Wagon 44kW FWD (K6AT)	2001	2006	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	MR Wagon 47kW FWD (K6AIT)	2001	2006	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	SX4 1.5 Hatchback 82kW 4WD	2009	2015	Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
-SUZUKI	Sidekick 1.6 Terrain cab open 59kW RWD	1989	1996		
-SUZUKI	Sidekick 1.6 Terrain cab wagon closed 71kW RWD (G16B)	1990	1998		
+SUZUKI	Sidekick 1.6 Terrain cab open 59kW RWD	1989	1996	Spirax Astra 80W-90	NULL2
+SUZUKI	Sidekick 1.6 Terrain cab wagon closed 71kW RWD (G16B)	1990	1998	Spirax Astra 80W-90	NULL2
 SUZUKI	Splash 1.2 Petrol 63kW (K12M)	2009	2016	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	Swift MK IV 1.3 Petrol 67kW FWD	2005	2011	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	Swift MK IV 1.3 Petrol 68kW FWD	2005	2012	Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -500,7 +500,7 @@ SUZUKI	Swift MK IV 1.5 75kW	2005	2011	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	Swift MK IV 1.6	2006	2012	Helix HX8 X 5W-30	Helix Eco 5W-30
 SUZUKI	Swift MK V 1.4 70kW	2011		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 SUZUKI	Swift MK V 1.6 100kW (AZG416)	2012		Helix HX8 X 5W-30	Helix Eco 5W-30
-SUZUKI	Wagon R 0.7 Petrol 40kW FWD (F6A12)	1997	2000		
+SUZUKI	Wagon R 0.7 Petrol 40kW FWD (F6A12)	1997	2000	Spirax S4 ATF HDX	NULL2
 TOYOTA	Agya 1.0 48kW	2012	2017	Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Agya 1.0 49kW	2017		Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Agya 1.2	2017		Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -522,8 +522,8 @@ TOYOTA	Calya	2016		Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Camry 2.4 Petrol 112kW (ACV30,ACV36)	2001	2006	Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Camry 2.5 Saloon Petrol 133kW (ASV50)	2011		Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Camry 2.5 Saloon Petrol 133kW (ASV70)	2017		Helix HX8 X 5W-30	Helix Eco 5W-30
-TOYOTA	Corolla 1.6 Hatchback 81kW FWD (4AFE)	1997	2000		
-TOYOTA	Corolla 1.6 Hatchback 85kW (4AFE)	1992	1997		
+TOYOTA	Corolla 1.6 Hatchback 81kW FWD (4AFE)	1997	2000	Spirax Astra 80W-90	NULL2
+TOYOTA	Corolla 1.6 Hatchback 85kW (4AFE)	1992	1997	Spirax S4 ATF HDX	NULL2
 TOYOTA	Corolla 1.8 Saloon Petrol 100kW (1ZZFE)	2001	2008	Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Corolla Altis 1.8 Petrol 100kW (1ZZFE)	2001	2008	Helix Eco 5W-30	NULL2
 TOYOTA	Corolla Altis 2.0 116kW	2010	2013	Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -534,8 +534,8 @@ TOYOTA	Corona EXIV 2.0 98kW	1993	1995
 TOYOTA	Crown Majesta 3.0 162kW (2JZGE) (JZS149)	1991	1995	Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Duet 1.0 40kW	1998	2004	Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Etios Valco	2011		Helix HX8 X 5W-30	Helix Eco 5W-30
-TOYOTA	Fortuner 2.4 110kW 4WD	2015			
-TOYOTA	Fortuner 2.4 110kW RWD	2015			
+TOYOTA	Fortuner 2.4 110kW 4WD	2015		Spirax Astra 80W-90	NULL2
+TOYOTA	Fortuner 2.4 110kW RWD	2015		Spirax Astra 80W-90	NULL2
 TOYOTA	Fortuner 2.5 106kW RWD	2009	2015	Rimula R3 Turbo 15W-40	NULL2
 TOYOTA	Fortuner 2.5 75kW RWD (KUN60)	2004	2015	Rimula R3 Turbo 15W-40	NULL2
 TOYOTA	Fortuner 2.7 118kW 4WD	2004	2015	Helix HX8 X 5W-30	Helix Eco 5W-30
@@ -561,8 +561,8 @@ TOYOTA	Kijang Innova 2.4	2015		Rimula Light Duty LD4 Extra 15W-40	NULL2
 TOYOTA	Land Cruiser 100 4.2 150kW	1998	2008	Rimula R3 Turbo 15W-40	NULL2
 TOYOTA	Land Cruiser 200 4.5 173kW	2007		Rimula R3 Turbo 15W-40	NULL2
 TOYOTA	Land Cruiser 200 4.5 195kW	2008		Helix HX8 Synthetic 5W-30	NULL2
-TOYOTA	Land Cruiser 4.2 Terrain cab closed Diesel 123kW (HZJ70)	1990	2001		
-TOYOTA	Land Cruiser 4.2 Terrain cab wagon closed Diesel 123kW (1HZ) (HZJ75)	1990	2001		
+TOYOTA	Land Cruiser 4.2 Terrain cab closed Diesel 123kW (HZJ70)	1990	2001	Spirax S4 ATF HDX	NULL2
+TOYOTA	Land Cruiser 4.2 Terrain cab wagon closed Diesel 123kW (1HZ) (HZJ75)	1990	2001	Spirax S4 ATF HDX	NULL2
 TOYOTA	Prius 1.8 73kW	2008		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 TOYOTA	RAV 4 MK I 2.0 94kW	1997	2000	Helix Eco 5W-30	NULL2
 TOYOTA	RAV 4 MK II 1.8	2000	2005	Helix Eco 5W-30	NULL2
@@ -574,7 +574,7 @@ TOYOTA	Soluna Vios	2002	2006	Helix HX7 Plus 5W-40	Helix Ultra 5W-40
 TOYOTA	Vellfire 2.5 Petrol FWD	2015		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 TOYOTA	Vellfire 3.5 206kW FWD (GGH30W)	2015		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 TOYOTA	Vios 1.5 79kW (2NRFBE)	2016		Helix HX8 X 5W-30	Helix Eco 5W-30
-TOYOTA	Vios 1.5 80kW (NCP42)	2002	2006		
+TOYOTA	Vios 1.5 80kW (NCP42)	2002	2006	Spirax S6 AXME 75W-90	NULL2
 TOYOTA	Voxy 2.0 112kW FWD (3ZRFAE)	2014		Helix Ultra SN PLUS 0W-20	Helix Eco 0W-20
 TOYOTA	Yaris 1.5 Hatchback Petrol 79kW (1NZFE) (NCP150)	2014		Helix HX8 X 5W-30	Helix Eco 5W-30
 TOYOTA	Yaris 1.5 Hatchback Petrol 79kW (2NRFE)	2016		Helix HX8 X 5W-30	Helix Eco 5W-30
