@@ -77,7 +77,7 @@ File.open('shell.tsv', 'w') do |fr|
             ap eqs.length
             eqs.each do |eq|
                 res = getXmlEqu eq['href']
-                product = res['response']['equipment']['application'][0]['product'] rescue nil
+                product = res['response']['equipment']['application'][0]['product'] rescue res['response']['equipment']['application']['product'] rescue nil
                 product = [{'name':'NULL1'},{'name':'NULL1'}] if product.nil?
                 ap product # NOTE: tip tertentu misal izusu/truck2 tidak ada rekomendasi oli mesin, hanya ada gandar dan transmisi
                 rek = product[0]['name'] rescue product['name'] rescue 'NULL2'
