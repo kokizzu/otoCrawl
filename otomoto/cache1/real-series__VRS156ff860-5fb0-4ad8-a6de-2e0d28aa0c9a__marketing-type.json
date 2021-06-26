@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM00264",
+		"vrs_id": "VRS156ff860-5fb0-4ad8-a6de-2e0d28aa0c9a",
+		"vm_desc": "LEGENDA",
+		"fluctuation": "0.00",
+		"c2b_bottom_percentage": "0.00",
+		"c2b_top_percentage": "0.00",
+		"c2c_bottom_percentage": "0.00",
+		"c2c_top_percentage": "0.00",
+		"c2b_bottom_si": "0.00",
+		"c2b_top_si": "0.00",
+		"c2c_bottom_si": "0.00",
+		"c2c_top_si": "0.00",
+		"is_for_jubel": 0,
+		"keywords": "|HONDA|LEGENDA|",
+		"for_sell_new": 0,
+		"created_at": null,
+		"created_by": "MANUAL",
+		"updated_at": "2019-11-29 15:46:07",
+		"updated_by": "jazi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

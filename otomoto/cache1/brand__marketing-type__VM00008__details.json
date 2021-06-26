@@ -1,0 +1,163 @@
+{
+	"vm_id": "VM00008",
+	"vrs_id": "VRS00006",
+	"vm_desc": "CBR 150R",
+	"fluctuation": "-12.00",
+	"c2b_bottom_percentage": "78.00",
+	"c2b_top_percentage": "85.00",
+	"c2c_bottom_percentage": "80.00",
+	"c2c_top_percentage": "97.00",
+	"c2b_bottom_si": "78.00",
+	"c2b_top_si": "85.00",
+	"c2c_bottom_si": "90.00",
+	"c2c_top_si": "102.00",
+	"is_for_jubel": 1,
+	"keywords": "|HONDA|CBR-150|CBR 150|CBR 150R|CBR 150 R|CBR-150R|CBR|150|CBR150|",
+	"for_sell_new": 0,
+	"created_at": null,
+	"created_by": "MANUAL",
+	"updated_at": "2021-06-07 20:25:38",
+	"updated_by": "irfan.chahyadi@otomoto.id",
+	"delete_at": null,
+	"delete_by": null,
+	"vehicle_years": [
+		{
+			"vm_id": "VM00008",
+			"year": 2011,
+			"created_at": "2021-02-03 06:42:14",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2021-02-03 06:42:14",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM00008",
+			"year": 2012,
+			"created_at": "2021-02-03 06:42:14",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2021-02-03 06:42:14",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM00008",
+			"year": 2013,
+			"created_at": "2021-02-03 06:42:14",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2021-02-03 06:42:14",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM00008",
+			"year": 2014,
+			"created_at": "2021-02-03 06:42:14",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2021-02-03 06:42:14",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM00008",
+			"year": 2015,
+			"created_at": "2021-02-03 06:42:14",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2021-02-03 06:42:14",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM00008",
+			"year": 2016,
+			"created_at": "2021-02-03 06:42:14",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2021-02-03 06:42:14",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		}
+	],
+	"vehicle_ccs": [
+		{
+			"cc_id": "CC010",
+			"cc_desc": "150",
+			"created_at": "2017-04-07 10:00:00",
+			"created_by": "SYSTEM",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM00008",
+				"cc_id": "CC010"
+			}
+		}
+	],
+	"vehicle_colors": [
+		{
+			"vc_id": "VC01",
+			"vt_id": "VT02",
+			"vc_desc": "HITAM",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM00008",
+				"vc_id": "VC01"
+			}
+		},
+		{
+			"vc_id": "VC02",
+			"vt_id": "VT02",
+			"vc_desc": "MERAH",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM00008",
+				"vc_id": "VC02"
+			}
+		},
+		{
+			"vc_id": "VC03",
+			"vt_id": "VT02",
+			"vc_desc": "PUTIH",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM00008",
+				"vc_id": "VC03"
+			}
+		},
+		{
+			"vc_id": "VC21",
+			"vt_id": "VT02",
+			"vc_desc": "MERAH-PUTIH-BIRU",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM00008",
+				"vc_id": "VC21"
+			}
+		}
+	]
+}

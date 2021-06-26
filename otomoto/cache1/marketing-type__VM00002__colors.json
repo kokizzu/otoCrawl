@@ -1,0 +1,107 @@
+[
+	{
+		"vc_id": "VC01",
+		"vt_id": "VT02",
+		"vc_desc": "HITAM",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM00002",
+			"vc_id": "VC01"
+		}
+	},
+	{
+		"vc_id": "VC02",
+		"vt_id": "VT02",
+		"vc_desc": "MERAH",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM00002",
+			"vc_id": "VC02"
+		}
+	},
+	{
+		"vc_id": "VC03",
+		"vt_id": "VT02",
+		"vc_desc": "PUTIH",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM00002",
+			"vc_id": "VC03"
+		}
+	},
+	{
+		"vc_id": "VC06",
+		"vt_id": "VT02",
+		"vc_desc": "ORANYE",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM00002",
+			"vc_id": "VC06"
+		}
+	},
+	{
+		"vc_id": "VC14",
+		"vt_id": "VT02",
+		"vc_desc": "MAGENTA \/ PINK",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": "2019-08-13 17:10:20",
+		"updated_by": "rosyana@otomoto.id",
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM00002",
+			"vc_id": "VC14"
+		}
+	},
+	{
+		"vc_id": "VC19",
+		"vt_id": "VT02",
+		"vc_desc": "MAGENTA-HITAM",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM00002",
+			"vc_id": "VC19"
+		}
+	},
+	{
+		"vc_id": "VC23",
+		"vt_id": "VT02",
+		"vc_desc": "PUTIH-BIRU",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM00002",
+			"vc_id": "VC23"
+		}
+	}
+]

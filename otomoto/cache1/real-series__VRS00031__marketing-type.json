@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM00049",
+		"vrs_id": "VRS00031",
+		"vm_desc": "KLX 250S",
+		"fluctuation": "-5.00",
+		"c2b_bottom_percentage": "70.00",
+		"c2b_top_percentage": "80.00",
+		"c2c_bottom_percentage": "75.00",
+		"c2c_top_percentage": "97.00",
+		"c2b_bottom_si": "65.00",
+		"c2b_top_si": "80.00",
+		"c2c_bottom_si": "90.00",
+		"c2c_top_si": "102.00",
+		"is_for_jubel": 0,
+		"keywords": "|KAWASAKI|KLX|250|KLX 250|KLX-250|KLX - 250|KLX250|KLX 250S|KLX-250S|KLX - 250S|KLX250S|",
+		"for_sell_new": 1,
+		"created_at": null,
+		"created_by": "MANUAL",
+		"updated_at": "2021-02-16 21:49:40",
+		"updated_by": "irfan.chahyadi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

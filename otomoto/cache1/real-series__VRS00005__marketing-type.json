@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM00007",
+		"vrs_id": "VRS00005",
+		"vm_desc": "CB150R STREETFIRE",
+		"fluctuation": "22.00",
+		"c2b_bottom_percentage": "74.00",
+		"c2b_top_percentage": "80.00",
+		"c2c_bottom_percentage": "78.00",
+		"c2c_top_percentage": "97.00",
+		"c2b_bottom_si": "74.00",
+		"c2b_top_si": "85.00",
+		"c2c_bottom_si": "90.00",
+		"c2c_top_si": "102.00",
+		"is_for_jubel": 1,
+		"keywords": "|HONDA|CB150|CB 150|CB-150|CB - 150|CB -150|CB- 150|STREETFIRE|CB150 STREETFIRE|CB 150 STREETFIRE|CB-150 STREETFIRE|CB - 150 STREETFIRE|CB -150 STREETFIRE|CB- 150 STREETFIRE|CB150R| CB 150 R|CB 150R|CB150 R|",
+		"for_sell_new": 1,
+		"created_at": null,
+		"created_by": "MANUAL",
+		"updated_at": "2021-06-07 20:25:31",
+		"updated_by": "irfan.chahyadi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

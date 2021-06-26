@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM1608e3e5-9b49-4f2c-bf6a-d22cfde6f4ee",
+		"vrs_id": "VRSfe796fd2-a951-46c3-b10f-2526dd1cc020",
+		"vm_desc": "IMPRESSA",
+		"fluctuation": "0.00",
+		"c2b_bottom_percentage": "0.00",
+		"c2b_top_percentage": "0.00",
+		"c2c_bottom_percentage": "0.00",
+		"c2c_top_percentage": "0.00",
+		"c2b_bottom_si": "0.00",
+		"c2b_top_si": "0.00",
+		"c2c_bottom_si": "0.00",
+		"c2c_top_si": "0.00",
+		"is_for_jubel": 0,
+		"keywords": "|HONDA|IMPRESSA|",
+		"for_sell_new": 0,
+		"created_at": "2018-08-24 15:17:21",
+		"created_by": "rosyana@sumo365.com",
+		"updated_at": "2019-11-29 15:49:40",
+		"updated_by": "jazi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

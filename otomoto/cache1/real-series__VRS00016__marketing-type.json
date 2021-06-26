@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM00025",
+		"vrs_id": "VRS00016",
+		"vm_desc": "SUPRA GTR 150",
+		"fluctuation": "3.00",
+		"c2b_bottom_percentage": "67.00",
+		"c2b_top_percentage": "72.00",
+		"c2c_bottom_percentage": "78.00",
+		"c2c_top_percentage": "97.00",
+		"c2b_bottom_si": "67.00",
+		"c2b_top_si": "75.00",
+		"c2c_bottom_si": "90.00",
+		"c2c_top_si": "102.00",
+		"is_for_jubel": 1,
+		"keywords": "|HONDA|SUPRA GTR 150|SUPRA|GTR|SUPRA 150|SUPRA GTR|GTR 150|GTR150|",
+		"for_sell_new": 1,
+		"created_at": null,
+		"created_by": "MANUAL",
+		"updated_at": "2021-01-21 21:14:00",
+		"updated_by": "irfan.chahyadi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

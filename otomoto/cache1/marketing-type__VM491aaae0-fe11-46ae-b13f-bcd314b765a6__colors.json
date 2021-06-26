@@ -1,0 +1,182 @@
+[
+	{
+		"vc_id": "VC01",
+		"vt_id": "VT02",
+		"vc_desc": "HITAM",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC01"
+		}
+	},
+	{
+		"vc_id": "VC02",
+		"vt_id": "VT02",
+		"vc_desc": "MERAH",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC02"
+		}
+	},
+	{
+		"vc_id": "VC03",
+		"vt_id": "VT02",
+		"vc_desc": "PUTIH",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC03"
+		}
+	},
+	{
+		"vc_id": "VC04",
+		"vt_id": "VT02",
+		"vc_desc": "ABU-ABU",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC04"
+		}
+	},
+	{
+		"vc_id": "VC05",
+		"vt_id": "VT02",
+		"vc_desc": "BIRU",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC05"
+		}
+	},
+	{
+		"vc_id": "VC07",
+		"vt_id": "VT02",
+		"vc_desc": "SILVER",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC07"
+		}
+	},
+	{
+		"vc_id": "VC08",
+		"vt_id": "VT02",
+		"vc_desc": "COKLAT",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC08"
+		}
+	},
+	{
+		"vc_id": "VC09",
+		"vt_id": "VT02",
+		"vc_desc": "GOLD",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC09"
+		}
+	},
+	{
+		"vc_id": "VC10",
+		"vt_id": "VT02",
+		"vc_desc": "VIOLET",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC10"
+		}
+	},
+	{
+		"vc_id": "VC11",
+		"vt_id": "VT02",
+		"vc_desc": "HIJAU",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC11"
+		}
+	},
+	{
+		"vc_id": "VC12",
+		"vt_id": "VT02",
+		"vc_desc": "KREM",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC12"
+		}
+	},
+	{
+		"vc_id": "VC28",
+		"vt_id": "VT02",
+		"vc_desc": "HITAM-MERAH",
+		"created_at": "2018-06-29 12:11:20",
+		"created_by": "MANUAL",
+		"updated_at": null,
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null,
+		"pivot": {
+			"vm_id": "VM491aaae0-fe11-46ae-b13f-bcd314b765a6",
+			"vc_id": "VC28"
+		}
+	}
+]

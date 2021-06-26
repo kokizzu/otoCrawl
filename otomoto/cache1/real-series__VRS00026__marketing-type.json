@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM00041",
+		"vrs_id": "VRS00026",
+		"vm_desc": "EDGE R",
+		"fluctuation": "0.00",
+		"c2b_bottom_percentage": "0.00",
+		"c2b_top_percentage": "0.00",
+		"c2c_bottom_percentage": "0.00",
+		"c2c_top_percentage": "0.00",
+		"c2b_bottom_si": "0.00",
+		"c2b_top_si": "0.00",
+		"c2c_bottom_si": "0.00",
+		"c2c_top_si": "0.00",
+		"is_for_jubel": 0,
+		"keywords": "|KAWASAKI|EDGE|R|EDGE R|",
+		"for_sell_new": 0,
+		"created_at": null,
+		"created_by": "MANUAL",
+		"updated_at": "2020-01-07 11:57:32",
+		"updated_by": "irfan.chahyadi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

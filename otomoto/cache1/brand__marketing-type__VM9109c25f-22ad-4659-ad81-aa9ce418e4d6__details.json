@@ -1,0 +1,238 @@
+{
+	"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+	"vrs_id": "VRS00004",
+	"vm_desc": "BLADE 125",
+	"fluctuation": "-9.00",
+	"c2b_bottom_percentage": "65.00",
+	"c2b_top_percentage": "80.00",
+	"c2c_bottom_percentage": "80.00",
+	"c2c_top_percentage": "98.00",
+	"c2b_bottom_si": "60.00",
+	"c2b_top_si": "75.00",
+	"c2c_bottom_si": "90.00",
+	"c2c_top_si": "102.00",
+	"is_for_jubel": 0,
+	"keywords": "|HONDA|BLADE|125|BLADE 125|",
+	"for_sell_new": 1,
+	"created_at": "2018-12-28 16:22:31",
+	"created_by": "rosyana@otomoto.id",
+	"updated_at": "2021-06-07 20:25:21",
+	"updated_by": "irfan.chahyadi@otomoto.id",
+	"delete_at": null,
+	"delete_by": null,
+	"vehicle_years": [
+		{
+			"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+			"year": 2014,
+			"created_at": "2020-01-08 17:05:23",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-08 17:05:23",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+			"year": 2015,
+			"created_at": "2020-01-08 17:05:23",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-08 17:05:23",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+			"year": 2016,
+			"created_at": "2020-01-08 17:05:23",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-08 17:05:23",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+			"year": 2017,
+			"created_at": "2020-01-08 17:05:23",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-08 17:05:23",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+			"year": 2018,
+			"created_at": "2020-01-08 17:05:23",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-08 17:05:23",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+			"year": 2019,
+			"created_at": "2020-01-08 17:05:23",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-08 17:05:23",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		}
+	],
+	"vehicle_ccs": [
+		{
+			"cc_id": "CC009",
+			"cc_desc": "125",
+			"created_at": "2017-04-07 10:00:00",
+			"created_by": "SYSTEM",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"cc_id": "CC009"
+			}
+		}
+	],
+	"vehicle_colors": [
+		{
+			"vc_id": "VC01",
+			"vt_id": "VT02",
+			"vc_desc": "HITAM",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC01"
+			}
+		},
+		{
+			"vc_id": "VC02",
+			"vt_id": "VT02",
+			"vc_desc": "MERAH",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC02"
+			}
+		},
+		{
+			"vc_id": "VC03",
+			"vt_id": "VT02",
+			"vc_desc": "PUTIH",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC03"
+			}
+		},
+		{
+			"vc_id": "VC04",
+			"vt_id": "VT02",
+			"vc_desc": "ABU-ABU",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC04"
+			}
+		},
+		{
+			"vc_id": "VC05",
+			"vt_id": "VT02",
+			"vc_desc": "BIRU",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC05"
+			}
+		},
+		{
+			"vc_id": "VC06",
+			"vt_id": "VT02",
+			"vc_desc": "ORANYE",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC06"
+			}
+		},
+		{
+			"vc_id": "VC08",
+			"vt_id": "VT02",
+			"vc_desc": "COKLAT",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC08"
+			}
+		},
+		{
+			"vc_id": "VC11",
+			"vt_id": "VT02",
+			"vc_desc": "HIJAU",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC11"
+			}
+		},
+		{
+			"vc_id": "VC12",
+			"vt_id": "VT02",
+			"vc_desc": "KREM",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VM9109c25f-22ad-4659-ad81-aa9ce418e4d6",
+				"vc_id": "VC12"
+			}
+		}
+	]
+}

@@ -1,0 +1,50 @@
+[
+	{
+		"vrs_id": "VRS24fa6f25-a2d7-45b7-83e6-fd7aa4c31252",
+		"vs_id": "VS4f210ae5-0b4b-4fbf-98c2-b2ad2a9a6d34",
+		"vb_id": "VB4060647a-f003-4892-8689-74daedc42756",
+		"vrs_desc": "MOTOBI 200",
+		"created_at": "2021-04-15 20:57:32",
+		"created_by": "irfan.chahyadi@otomoto.id",
+		"updated_at": "2021-04-15 20:57:32",
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null
+	},
+	{
+		"vrs_id": "VRS422bed5f-b441-49af-bea3-d8b0413aad9a",
+		"vs_id": "VSf165b456-be56-4ff1-889b-ea8d25353690",
+		"vb_id": "VB4060647a-f003-4892-8689-74daedc42756",
+		"vrs_desc": "PATAGONIAN",
+		"created_at": "2021-04-15 21:01:30",
+		"created_by": "irfan.chahyadi@otomoto.id",
+		"updated_at": "2021-04-15 21:01:30",
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null
+	},
+	{
+		"vrs_id": "VRS9346b08b-6ce3-451d-982e-3b9f01a1afc8",
+		"vs_id": "VS585d96ba-fb82-4e71-94d2-8d78bd8e5220",
+		"vb_id": "VB4060647a-f003-4892-8689-74daedc42756",
+		"vrs_desc": "ZAFFERANO",
+		"created_at": "2021-06-14 20:18:41",
+		"created_by": "irfan.chahyadi@otomoto.id",
+		"updated_at": "2021-06-14 20:18:41",
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null
+	},
+	{
+		"vrs_id": "VRSe059524c-d1c3-4d7a-bb1e-8f90efb19f4f",
+		"vs_id": "VS4f210ae5-0b4b-4fbf-98c2-b2ad2a9a6d34",
+		"vb_id": "VB4060647a-f003-4892-8689-74daedc42756",
+		"vrs_desc": "MOTOBI 152",
+		"created_at": "2021-04-15 20:57:54",
+		"created_by": "irfan.chahyadi@otomoto.id",
+		"updated_at": "2021-04-15 20:57:54",
+		"updated_by": null,
+		"delete_at": null,
+		"delete_by": null
+	}
+]

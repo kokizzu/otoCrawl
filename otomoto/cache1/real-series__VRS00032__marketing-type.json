@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM00050",
+		"vrs_id": "VRS00032",
+		"vm_desc": "KSR PRO",
+		"fluctuation": "7.00",
+		"c2b_bottom_percentage": "70.00",
+		"c2b_top_percentage": "80.00",
+		"c2c_bottom_percentage": "78.00",
+		"c2c_top_percentage": "97.00",
+		"c2b_bottom_si": "65.00",
+		"c2b_top_si": "80.00",
+		"c2c_bottom_si": "90.00",
+		"c2c_top_si": "102.00",
+		"is_for_jubel": 0,
+		"keywords": "|KAWASAKI|KSR|PRO|KSR PRO|",
+		"for_sell_new": 1,
+		"created_at": null,
+		"created_by": "MANUAL",
+		"updated_at": "2021-06-10 20:55:17",
+		"updated_by": "irfan.chahyadi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

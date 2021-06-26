@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM00063",
+		"vrs_id": "VRS2b23da01-9dea-4747-b04c-70bb57b64d3e",
+		"vm_desc": "W800",
+		"fluctuation": "0.00",
+		"c2b_bottom_percentage": "0.00",
+		"c2b_top_percentage": "0.00",
+		"c2c_bottom_percentage": "0.00",
+		"c2c_top_percentage": "0.00",
+		"c2b_bottom_si": "0.00",
+		"c2b_top_si": "0.00",
+		"c2c_bottom_si": "0.00",
+		"c2c_top_si": "0.00",
+		"is_for_jubel": 0,
+		"keywords": "|KAWASAKI|W800|W 800|W- 800|W -800|W - 800|",
+		"for_sell_new": 1,
+		"created_at": null,
+		"created_by": "MANUAL",
+		"updated_at": "2021-04-20 22:11:38",
+		"updated_by": "irfan.chahyadi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

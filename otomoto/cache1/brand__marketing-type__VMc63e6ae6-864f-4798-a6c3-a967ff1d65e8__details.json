@@ -1,0 +1,258 @@
+{
+	"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+	"vrs_id": "VRS00002",
+	"vm_desc": "BEAT SPORTY ESP CBS ISS",
+	"fluctuation": "-13.00",
+	"c2b_bottom_percentage": "78.00",
+	"c2b_top_percentage": "85.00",
+	"c2c_bottom_percentage": "80.00",
+	"c2c_top_percentage": "98.00",
+	"c2b_bottom_si": "78.00",
+	"c2b_top_si": "88.00",
+	"c2c_bottom_si": "90.00",
+	"c2c_top_si": "102.00",
+	"is_for_jubel": 0,
+	"keywords": "|HONDA|BEAT|SPORTY|BEAT SPORTY|ESP|BEAT ESP|SPORTY ESP|",
+	"for_sell_new": 0,
+	"created_at": "2018-12-28 16:17:05",
+	"created_by": "rosyana@otomoto.id",
+	"updated_at": "2021-04-27 20:56:50",
+	"updated_by": "irfan.chahyadi@otomoto.id",
+	"delete_at": null,
+	"delete_by": null,
+	"vehicle_years": [
+		{
+			"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+			"year": 2012,
+			"created_at": "2020-01-07 11:37:54",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-07 11:37:54",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+			"year": 2013,
+			"created_at": "2020-01-07 11:37:54",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-07 11:37:54",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+			"year": 2014,
+			"created_at": "2020-01-07 11:37:54",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-07 11:37:54",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+			"year": 2015,
+			"created_at": "2020-01-07 11:37:54",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-07 11:37:54",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		},
+		{
+			"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+			"year": 2016,
+			"created_at": "2020-01-07 11:37:54",
+			"created_by": "irfan.chahyadi@otomoto.id",
+			"updated_at": "2020-01-07 11:37:54",
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null
+		}
+	],
+	"vehicle_ccs": [
+		{
+			"cc_id": "CC004",
+			"cc_desc": "110",
+			"created_at": "2017-04-07 10:00:00",
+			"created_by": "SYSTEM",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"cc_id": "CC004"
+			}
+		}
+	],
+	"vehicle_colors": [
+		{
+			"vc_id": "VC01",
+			"vt_id": "VT02",
+			"vc_desc": "HITAM",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC01"
+			}
+		},
+		{
+			"vc_id": "VC02",
+			"vt_id": "VT02",
+			"vc_desc": "MERAH",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC02"
+			}
+		},
+		{
+			"vc_id": "VC03",
+			"vt_id": "VT02",
+			"vc_desc": "PUTIH",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC03"
+			}
+		},
+		{
+			"vc_id": "VC04",
+			"vt_id": "VT02",
+			"vc_desc": "ABU-ABU",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC04"
+			}
+		},
+		{
+			"vc_id": "VC05",
+			"vt_id": "VT02",
+			"vc_desc": "BIRU",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC05"
+			}
+		},
+		{
+			"vc_id": "VC06",
+			"vt_id": "VT02",
+			"vc_desc": "ORANYE",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC06"
+			}
+		},
+		{
+			"vc_id": "VC07",
+			"vt_id": "VT02",
+			"vc_desc": "SILVER",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC07"
+			}
+		},
+		{
+			"vc_id": "VC08",
+			"vt_id": "VT02",
+			"vc_desc": "COKLAT",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC08"
+			}
+		},
+		{
+			"vc_id": "VC11",
+			"vt_id": "VT02",
+			"vc_desc": "HIJAU",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC11"
+			}
+		},
+		{
+			"vc_id": "VC12",
+			"vt_id": "VT02",
+			"vc_desc": "KREM",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC12"
+			}
+		},
+		{
+			"vc_id": "VC13",
+			"vt_id": "VT02",
+			"vc_desc": "KUNING",
+			"created_at": "2018-06-29 12:11:20",
+			"created_by": "MANUAL",
+			"updated_at": null,
+			"updated_by": null,
+			"delete_at": null,
+			"delete_by": null,
+			"pivot": {
+				"vm_id": "VMc63e6ae6-864f-4798-a6c3-a967ff1d65e8",
+				"vc_id": "VC13"
+			}
+		}
+	]
+}

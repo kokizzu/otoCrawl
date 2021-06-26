@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM00023",
+		"vrs_id": "VRS00014",
+		"vm_desc": "NEW SONIC 150R",
+		"fluctuation": "12.00",
+		"c2b_bottom_percentage": "65.00",
+		"c2b_top_percentage": "72.00",
+		"c2c_bottom_percentage": "80.00",
+		"c2c_top_percentage": "98.00",
+		"c2b_bottom_si": "68.00",
+		"c2b_top_si": "78.00",
+		"c2c_bottom_si": "90.00",
+		"c2c_top_si": "102.00",
+		"is_for_jubel": 1,
+		"keywords": "|HONDA|SONIC|150R|SONIC 150|SONIC 150R|NEW SONIC|SONIC 150 R|SONIC R|",
+		"for_sell_new": 1,
+		"created_at": null,
+		"created_by": "MANUAL",
+		"updated_at": "2021-01-21 21:13:51",
+		"updated_by": "irfan.chahyadi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]

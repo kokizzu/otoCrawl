@@ -1,0 +1,25 @@
+[
+	{
+		"vm_id": "VM7d0afb97-36da-42bc-b099-e475de691a02",
+		"vrs_id": "VRS7e5d34a5-6b74-4dfd-8199-6923356cbe17",
+		"vm_desc": "SUPERCUB C125",
+		"fluctuation": "0.00",
+		"c2b_bottom_percentage": "0.00",
+		"c2b_top_percentage": "0.00",
+		"c2c_bottom_percentage": "0.00",
+		"c2c_top_percentage": "0.00",
+		"c2b_bottom_si": "0.00",
+		"c2b_top_si": "0.00",
+		"c2c_bottom_si": "0.00",
+		"c2c_top_si": "0.00",
+		"is_for_jubel": 0,
+		"keywords": "|HONDA|SUPERCUB C125|SUPERCUB|SUPERCUB 125|",
+		"for_sell_new": 0,
+		"created_at": "2019-02-08 10:18:37",
+		"created_by": "rosyana@otomoto.id",
+		"updated_at": "2019-11-29 15:34:42",
+		"updated_by": "jazi@otomoto.id",
+		"delete_at": null,
+		"delete_by": null
+	}
+]
