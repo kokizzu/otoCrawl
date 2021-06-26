@@ -50,17 +50,17 @@ File.open('result.tsv', 'w') do |f|
     res << brand_id
     ap res
     series = fetch BRAND_TO_SERIES, brand_id
-    res1 = res.clone
     series.each do |seri|
+      res1 = res.clone
       res1 << seri["vrs_desc"]
       models = fetch SERIES_TO_MODEL, seri["vrs_id"]
-      res2 = res1.clone
       models.each do |model|
+        res2 = res1.clone
         res2 << model["vm_desc"]
         details = fetch MODEL_TO_DETAILS, model["vm_id"]
         res2 << details['vehicle_years'].map { |vy| vy['year'] }.join(',')
         colors = fetch MODEL_TO_COLOR, model["vm_id"]
-        res2 << colors.map { |vc| vc['vc_desc']  }.join(',')
+        res2 << colors.map { |vc| vc['vc_desc'] }.join(',')
         f.write res2.join("\t") + "\n"
       end
     end
