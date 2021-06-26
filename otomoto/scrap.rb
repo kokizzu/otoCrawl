@@ -44,10 +44,10 @@ def fetch suffix, id
 end
 
 File.open('result.tsv', 'w') do |f|
-  res = []
   BRAND.each do |k, brand_id|
+    res = []
     res << k
-    res << brand_id
+    #res << brand_id
     ap res
     series = fetch BRAND_TO_SERIES, brand_id
     series.each do |seri|
