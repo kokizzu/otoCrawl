@@ -5,4 +5,4 @@
 - Javascript
 - Python
 
-four of them was made to help a friend of mine (he need automotive database).
+four of them was made to help a friend of mine (he need automotive database), one of them for interview test.
