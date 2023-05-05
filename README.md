@@ -1,5 +1,5 @@
 
-# Example how to scraping data from Indonesian websites using 3 languages:
+# Example how to scraping data from Indonesian websites using 5 languages:
 
 - Ruby
 - Javascript
